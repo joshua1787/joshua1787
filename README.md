@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Myself Joshua Veeraiah 
+# Joshua Veeraiah — DevOps Portfolio
 
 **AWS Certified DevOps Engineer – Professional**  
 Cloud & DevSecOps Enthusiast | GitOps Advocate | Kubernetes & Infrastructure Automation Expert
@@ -70,14 +68,17 @@ Cloud & DevSecOps Enthusiast | GitOps Advocate | Kubernetes & Infrastructure Aut
 
 ## Skills Snapshot
 
-| Domain         | Tools & Technologies                                         |
-|----------------|--------------------------------------------------------------|
-| Cloud          | AWS (EKS, ECS, Lambda, S3, CloudWatch, API Gateway, DynamoDB) |
-| CI/CD          | Jenkins, GitHub Actions, ArgoCD                             |
-| Containers     | Docker, Kubernetes, Helm                                    |
-| IaC            | Terraform (Remote state, modules, DR), YAML, Bash           |
-| Observability  | OpenTelemetry, CloudWatch Logs, FluentBit                   |
-| Security       | AWS Inspector, IAM, GuardDuty, DevSecOps practices          |
+| Category         | Tools & Technologies                                                                 |
+|------------------|--------------------------------------------------------------------------------------|
+| Cloud Platforms  | AWS (EKS, ECS, Lambda, S3, CloudWatch, API Gateway, DynamoDB, SNS, SQS, Route53)     |
+| Containers       | Docker, Kubernetes, Amazon ECR, Docker Compose                                       |
+| IaC & Automation | Terraform (state management, modules), AWS CLI, YAML, Bash, Makefiles                |
+| CI/CD            | Jenkins, GitHub Actions, ArgoCD, Webhooks                                            |
+| GitOps & Helm    | ArgoCD, Helm Charts, Kustomize                                                       |
+| Monitoring & Logs| OpenTelemetry, CloudWatch Logs, FluentBit, Prometheus, Grafana                      |
+| Security & Audit | DevSecOps, AWS Inspector, IAM, GuardDuty, Secrets Manager, Static Analysis Tools     |
+| Dev & Tools      | GoLang, React, Node.js, Express, MongoDB, Postman, Git, GitHub                       |
+| OS & Platforms   | Linux (Ubuntu, Amazon Linux), WSL2, VS Code, EC2, ELB                                |
 
 ---
 
@@ -86,5 +87,3 @@ Cloud & DevSecOps Enthusiast | GitOps Advocate | Kubernetes & Infrastructure Aut
 > As a DevOps engineer, I combine automation, security, and scalability to deliver world-class infrastructure pipelines. This portfolio demonstrates hands-on experience in designing enterprise-grade deployments using modern DevOps, GitOps, and DevSecOps tooling — tailored for real-world impact.
 
 ---
-
--->
